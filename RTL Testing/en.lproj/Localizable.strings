@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  RTL Testing
+
+  Created by Faraz Haider on 5/26/17.
+  Copyright © 2017 Faraz Haider. All rights reserved.
+*/
+
+"welcome" = "Welcome";
+"show Time" = "Show Time";
+"ramadan mubarak" = "Ramadan Mubarak";
