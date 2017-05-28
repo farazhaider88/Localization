@@ -1,5 +1,4 @@
 # Localization
-# Localize arabic to english or english to arabic manually. no need to restart 
-application, using Autolayout.
+# Localize arabic to english or english to arabic manually. no need to restart application, using Autolayout.
 
-[Imgur](http://i.imgur.com/kOuf3Td.gifv)
+[url=http://imgur.com/kOuf3Td][img]http://i.imgur.com/kOuf3Td.gif[/img][/url]
